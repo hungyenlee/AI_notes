@@ -13,6 +13,12 @@ skill 是什麼？它如何讓 AI agent 在特定任務中取得可重複使用�
 - [[AI agent 先看 skill 描述 再按需讀取內容]]
 - [[AGENTS.md 會先組成指令鏈而 skill 會按需讀取]]
 - [[skill 檔案由 SKILL.md 和輔助資源組成]]
+- [[認識 grill-me]]
+- [[認識 skill-creator]]
+- [[自己寫 skill、請 AI 寫 skill 與用 skill-creator 寫 skill 的差異]]
+- [[認識 MCP 與 skill 的分工]]
+- [[Skill 不會完全取代 MCP]]
+- [[Skill 適合流程知識而 MCP 適合工具能力]]
 
 ## 初步理解
 

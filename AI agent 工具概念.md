@@ -8,4 +8,5 @@
 - [[認識 harness]]
 - [[認識 MCP]]
 - [[認識 skill]]
+- [[認識 MCP 與 skill 的分工]]
 - [[認識 Codex Sites]]
