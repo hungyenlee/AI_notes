@@ -9,6 +9,7 @@
 - [[harness 是把測試流程包起來的執行環境]]
 - [[AI harness 幫助重複評測 agent 行為]]
 - [[harness 和 README.md 的分工不同]]
+- [[認識 TDD]]
 - [[認識 OKR]]
 - [[認識 skill]]
 - [[認識 MCP]]
