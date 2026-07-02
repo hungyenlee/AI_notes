@@ -6,6 +6,7 @@ Live Test 是什麼，它和 Unit Test、Integration Test、E2E Test 這類測�
 
 ## 相關卡片
 
+- [[Live Test 原始資料]]
 - [[Live Test 是在真實運作環境中驗證系統]]
 - [[Live environment 是正在真實運作的環境]]
 - [[Live Test 描述測試環境而不是測試範圍]]

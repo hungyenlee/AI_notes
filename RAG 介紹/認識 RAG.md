@@ -9,6 +9,7 @@ RAG 是什麼？它為什麼能讓 AI 回答更貼近外部資料與實際情境
 - [[RAG 是讓 AI 先檢索資料再生成答案]]
 - [[AI 需要 RAG 是因為模型本身不是資料庫]]
 - [[RAG 找回來的資料會成為 context 的一部分]]
+- [[RAG 相關原始資料]]
 - [[認識 MCP]]
 - [[認識 README.md]]
 
@@ -18,4 +19,4 @@ RAG 是 Retrieval-Augmented Generation，常譯為「檢索增強生成」。它
 
 ## 來源
 
-- 對話整理：codex://threads/019eb567-7548-7803-9f76-fd0f6a9d3d7a
+- [[RAG 相關原始資料]]

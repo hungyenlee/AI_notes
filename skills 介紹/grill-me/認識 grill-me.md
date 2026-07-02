@@ -9,6 +9,8 @@
 - [[grill-me 是用來壓力測試計畫的 skill]]
 - [[grill-me 透過逐題追問釐清決策樹]]
 - [[grill-me 適合想法尚未定型的階段]]
+- [[grill-me 適合通用計畫盤問而 grill-with-docs 適合 codebase]]
+- [[grill-me 到 domain-modeling 的演化是追問流程與文件化能力拆分]]
 - [[認識 skill]]
 
 ## 初步理解

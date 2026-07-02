@@ -12,6 +12,7 @@
 - [[memory 是跨對話保存的長期資訊]]
 - [[Codex memory 預設不會自動永久記錄]]
 - [[RAG 找回來的資料會成為 context 的一部分]]
+- [[prompt、context、memory 相關原始資料]]
 
 ## 初步理解
 
@@ -19,4 +20,4 @@
 
 ## 來源
 
-- 對話整理：codex://threads/019eb567-7548-7803-9f76-fd0f6a9d3d7a
+- [[prompt、context、memory 相關原始資料]]
