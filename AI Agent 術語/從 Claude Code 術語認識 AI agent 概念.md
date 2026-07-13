@@ -11,6 +11,7 @@ Claude Code 術語文章裡提到的概念，哪些可以幫助理解通用 AI a
 - [[認識 MCP]]
 - [[認識 skill]]
 - [[AI agent 工具概念]]
+- [[sandboxing 把 agent 限制在安全範圍內執行]]
 - [[認識 harness]]
 
 ## 初步理解

@@ -16,6 +16,7 @@ Live Test 是什麼，它和 Unit Test、Integration Test、E2E Test 這類測�
 - [[Canary Release 用少量流量驗證新版穩定性]]
 - [[Canary Beta 和灰度發布的差異]]
 - [[Feature Flag 用開關控制功能是否啟用]]
+- [[認識冒煙測試]]
 
 ## 初步理解
 
