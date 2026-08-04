@@ -1,4 +1,4 @@
-標籤：#AI #OKR #KeyResult #成果思維
+#AI #OKR #KeyResult #成果思維 #知識卡
 
 ## 一句話
 

@@ -1,4 +1,4 @@
-標籤：#AI #harness #索引筆記
+#AI #harness #索引卡
 
 ## 核心問題
 

@@ -1,4 +1,4 @@
-標籤：#AI #harness #README #永久筆記
+#AI #harness #README #知識卡
 
 ## 一句話
 

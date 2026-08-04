@@ -1,4 +1,4 @@
-標籤：#AI #CLI #skill
+#AI #CLI #skill #知識卡
 
 ## 一句話
 

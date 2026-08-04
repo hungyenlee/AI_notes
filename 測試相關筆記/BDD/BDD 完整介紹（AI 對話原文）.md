@@ -1,4 +1,16 @@
-標籤：#AI #BDD #對話原文
+#AI #BDD #對話原文 #原始資料卡
+
+## 摘要
+
+這份原始資料完整說明 BDD 的流程、`.feature` 檔、Gherkin 語法與 Step Definitions 的角色。它的重點是 BDD 是用具體行為範例建立共同理解，而不只是撰寫自動化測試檔。
+
+## 可沉澱的知識卡
+
+- [[認識 BDD]]
+- [[BDD 用具體行為範例建立共同理解]]
+- [[Given When Then 描述前提行為與結果]]
+- [[Step Definitions 把 Gherkin 連接到產品程式]]
+- [[feature 檔是 BDD 的可執行規格]]
 
 ## 原始資料
 

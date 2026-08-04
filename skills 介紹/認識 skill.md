@@ -1,4 +1,4 @@
-標籤：#AI #Codex #skill #卡片盒
+#AI #Codex #skill #卡片盒 #索引卡
 
 這是一張關於 Codex skill 的索引筆記。它不試圖一次說完所有內容，而是把「認識 skill」拆成幾張可以彼此連結、日後擴充的卡片。
 

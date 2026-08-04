@@ -1,4 +1,15 @@
-標籤：#AI #BDD #behave #對話原文
+#AI #BDD #behave #對話原文 #原始資料卡
+
+## 摘要
+
+這份原始資料用購物車範例說明 `behave` 如何讀取 `.feature`、配對 step definitions 並執行情境，也補充 `context` 在不同作用域中保存測試狀態的方式。
+
+## 可沉澱的知識卡
+
+- [[認識 BDD]]
+- [[behave 依序配對並執行 Scenario 的每個步驟]]
+- [[behave context 用分層作用域管理測試狀態]]
+- [[Step Definitions 把 Gherkin 連接到產品程式]]
 
 ## 原始資料一：購物車專案與 behave 執行流程
 

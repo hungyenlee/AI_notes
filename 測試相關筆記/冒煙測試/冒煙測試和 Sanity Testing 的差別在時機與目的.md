@@ -1,4 +1,4 @@
-標籤：#AI #軟體測試 #冒煙測試 #SanityTesting
+#AI #軟體測試 #冒煙測試 #SanityTesting #知識卡
 
 ## 一句話
 

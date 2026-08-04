@@ -1,4 +1,4 @@
-標籤：#AI #Codex #MCP #工具調用
+#AI #Codex #MCP #工具調用 #知識卡
 
 ## 一句話
 

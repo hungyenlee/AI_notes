@@ -1,4 +1,4 @@
-標籤：#AI #memory #Codex #永久筆記
+#AI #memory #Codex #知識卡
 
 ## 一句話
 

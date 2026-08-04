@@ -1,4 +1,4 @@
-標籤：#AI #ADR #AI-agent #架構記憶
+#AI #ADR #AI-agent #架構記憶 #知識卡
 
 ## 一句話
 

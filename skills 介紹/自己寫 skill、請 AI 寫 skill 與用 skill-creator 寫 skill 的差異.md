@@ -1,6 +1,10 @@
-標籤：#AI #Codex #skill #筆記
+#AI #Codex #skill #筆記 #知識卡
 
-## 相關連結
+## 一句話
+
+自己寫 skill、請 AI 寫 skill、用 `skill-creator` 寫 skill 的差異，在於流程正式程度與品質保障不同。
+
+## 連結
 
 - [[認識 skill]]
 - [[skill 是 AI agent 的可重複任務能力]]

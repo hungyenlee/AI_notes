@@ -99,5 +99,9 @@
 		{"id":"9f4ab1e3c7d25806","fromNode":"adc3299bfb58db61","fromSide":"left","toNode":"1c9f4b8a2e7d6053","toSide":"right"},
 		{"id":"f8c2d4e91a6b7035","fromNode":"8da5d12d4e4903f9","fromSide":"left","toNode":"e4a7c9b201d8f630","toSide":"right"},
 		{"id":"a67d3f45b209ec18","fromNode":"e4a7c9b201d8f630","fromSide":"left","toNode":"bd903a61f4e82c75","toSide":"right","color":"3","label":"結構化實踐"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

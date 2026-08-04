@@ -1,4 +1,4 @@
-標籤：#AI #Codex #AGENTS #永久筆記
+#AI #Codex #AGENTS #知識卡
 
 ## 一句話
 
