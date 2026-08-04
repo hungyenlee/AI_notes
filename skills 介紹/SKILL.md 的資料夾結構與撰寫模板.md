@@ -1,6 +1,10 @@
-標籤：#AI #Codex #skill #筆記
+#AI #Codex #skill #筆記 #知識卡
 
-## 相關連結
+## 一句話
+
+一個 Codex skill 的最小結構是資料夾加上 `SKILL.md`，而 `description` 決定 Codex 何時會讀取並使用它。
+
+## 連結
 
 - [[認識 skill]]
 - [[skill 檔案由 SKILL.md 和輔助資源組成]]
@@ -8,7 +12,7 @@
 - [[AI agent 先看 skill 描述 再按需讀取內容]]
 - [[skill-creator 是用來建立與改善 skill 的 skill]]
 
-## 整理版
+## 內容
 
 如果要在電腦上實際建立一個 Codex skill，最小單位通常是一個資料夾，裡面放一份主要說明文件 `SKILL.md`。
 

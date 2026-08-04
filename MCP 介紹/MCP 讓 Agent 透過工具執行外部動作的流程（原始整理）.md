@@ -1,8 +1,22 @@
-# MCP 讓 Agent 透過工具執行外部動作的流程
+#AI #MCP #原始資料卡
 
 卡片盒版：[[MCP 讓 Agent 透過工具執行外部動作的流程]]
 
 > 註：Google Sheet 只是這份原始整理中的例子，主題其實是 MCP 如何讓 Agent 把外部動作交給工具執行的流程。
+
+## 來源
+
+- 原始整理：MCP 如何讓 Agent 透過工具執行外部動作
+
+## 摘要
+
+這份原始整理用 Google Sheets 寫入資料作為例子，說明 MCP 在 Agent、MCP client、MCP server 與外部 API 之間扮演的工具呼叫橋梁。它適合作為理解 MCP tool call 流程的來源材料。
+
+## 可沉澱的知識卡
+
+- [[認識 MCP]]
+- [[MCP 讓 Agent 透過工具執行外部動作的流程]]
+- [[MCP server 是 Codex 可連接的工具端點]]
 
 ## 核心概念
 

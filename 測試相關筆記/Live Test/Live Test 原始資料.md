@@ -1,10 +1,22 @@
-標籤：#AI #軟體測試 #LiveTest #原始資料
+#AI #軟體測試 #LiveTest #原始資料卡
 
 ## 來源
 
 - 與 Codex 對話：2026-06-26
 - `codex://threads/019f02fc-39bc-7b43-94ec-5449e717e96e`
 - Session 標題：檢查 Live Test 筆記
+
+## 摘要
+
+這份原始資料彙整 Live Test 的定義、正式環境測試、真實使用者驗證，以及 A/B Test、Canary Release、Feature Flag、Beta 與灰度發布等相關概念。
+
+## 可沉澱的知識卡
+
+- [[認識 Live Test]]
+- [[Live Test 是在真實運作環境中驗證系統]]
+- [[Live Test 需要控制真實使用者與資料風險]]
+- [[Canary Release 用少量流量驗證新版穩定性]]
+- [[Feature Flag 用開關控制功能是否啟用]]
 
 ## 整理範圍
 

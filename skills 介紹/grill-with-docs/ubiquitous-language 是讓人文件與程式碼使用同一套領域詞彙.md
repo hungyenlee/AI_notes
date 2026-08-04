@@ -1,4 +1,4 @@
-標籤：#AI #Codex #skill #DDD
+#AI #Codex #skill #DDD #知識卡
 
 ## 一句話
 

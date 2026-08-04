@@ -1,4 +1,4 @@
-標籤：#AI #Codex #AGENTS #索引筆記
+#AI #Codex #AGENTS #索引卡
 
 ## 核心問題
 

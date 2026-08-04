@@ -1,4 +1,4 @@
-標籤：#AI #memory #AI-agent #永久筆記
+#AI #memory #AI-agent #知識卡
 
 ## 一句話
 

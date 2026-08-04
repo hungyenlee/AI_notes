@@ -1,4 +1,4 @@
-標籤：#AI #Codex #skill #AGENTS
+#AI #Codex #skill #AGENTS #知識卡
 
 ## 一句話
 

@@ -1,3 +1,21 @@
+#AI #MCP #skill #原始資料卡
+
+## 來源
+
+- [愛好 AI 工程：後 MCP 時代](https://blog.aihao.tw/2026/03/12/post-mcp-era-skills-vs-mcp/)
+- [Shareuhack：MCP 已死？Skill 會取代 MCP 嗎](https://www.shareuhack.com/zh-TW/posts/mcp-vs-skill-vs-cli-guide)
+- AI 對話整理
+
+## 摘要
+
+這份原始資料比較兩篇討論 skill、MCP 與 CLI 分工的文章。它的重點是：個人 coding agent 場景常可優先使用 skill + CLI，而企業治理、跨平台分發與 OAuth 授權等情境仍適合 MCP。
+
+## 可沉澱的知識卡
+
+- [[認識 MCP 與 skill 的分工]]
+- [[Skill 不會完全取代 MCP]]
+- [[Skill 適合流程知識而 MCP 適合工具能力]]
+- [[CLI 加 skill 適合個人開發者]]
 
 我的整理：兩篇其實都不認為「Skill 會完全取代 MCP」，比較接近這個結論：**個人 coding agent 場景，Skill + CLI 會取代很多 MCP；企業、多用戶、跨平台、授權治理場景，MCP 還是有價值。**
 

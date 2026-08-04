@@ -1,4 +1,4 @@
-標籤：#AI #AI-agent #Claude-Code #索引筆記
+#AI #AI-agent #Claude-Code #索引卡
 
 ## 核心問題
 

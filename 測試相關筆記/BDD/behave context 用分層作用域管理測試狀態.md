@@ -1,4 +1,4 @@
-標籤：#AI #BDD #behave #context
+#AI #BDD #behave #context #知識卡
 
 ## 一句話
 

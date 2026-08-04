@@ -1,4 +1,20 @@
-標籤：#AI #Codex #skill #原始資料
+#AI #Codex #skill #原始資料卡
+
+## 來源
+
+- AI 對話原始整理
+- grill-with-docs / domain-modeling 相關 skill 說明
+
+## 摘要
+
+這份原始資料整理 `grill-me`、`grill-with-docs` 與 `domain-modeling` 的演化關係。它說明追問流程如何從通用計畫盤問，逐步拆分成能維護專案共同語言與文件的工作流。
+
+## 可沉澱的知識卡
+
+- [[認識 grill-with-docs]]
+- [[grill-with-docs 讓追問結果沉澱成 CONTEXT.md 與 ADR.md]]
+- [[domain-modeling 負責維護專案共同語言與架構決策]]
+- [[grill-me 到 domain-modeling 的演化是追問流程與文件化能力拆分]]
 
 ## 原始整理
 

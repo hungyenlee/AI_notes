@@ -1,4 +1,4 @@
-標籤：#AI #軟體測試 #LiveTest
+#AI #軟體測試 #LiveTest #知識卡
 
 ## 一句話
 

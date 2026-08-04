@@ -1,4 +1,4 @@
-標籤：#AI #軟體測試 #Testability #Python
+#AI #軟體測試 #Testability #Python #知識卡
 
 ## 一句話
 

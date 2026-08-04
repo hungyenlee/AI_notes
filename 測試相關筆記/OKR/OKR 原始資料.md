@@ -1,9 +1,21 @@
-標籤：#AI #OKR #原始資料
+#AI #OKR #原始資料卡
 
 ## 來源
 
 - 與 Codex 對話：2026-06-17 16:36（Asia/Taipei）
 - `codex://threads/019ed4b9-3e1f-7f30-955a-c2e016caaa9b`
+
+## 摘要
+
+這份原始資料保存 OKR 的基本定義、Objective 與 Key Result 的分工、OKR 和 KPI 的差異，以及撰寫 OKR 時應避免把成果寫成任務清單的提醒。
+
+## 可沉澱的知識卡
+
+- [[認識 OKR]]
+- [[Objective 描述想要推動的方向]]
+- [[Key Result 要衡量結果而不是列任務]]
+- [[OKR 和 KPI 的差別在於改變與維持]]
+- [[OKR、專案和 Todo 是不同層級]]
 
 ## 原始資料
 

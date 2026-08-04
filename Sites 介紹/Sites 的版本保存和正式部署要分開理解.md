@@ -1,4 +1,4 @@
-標籤：#AI #Codex #Sites #永久筆記
+#AI #Codex #Sites #知識卡
 
 ## 一句話
 

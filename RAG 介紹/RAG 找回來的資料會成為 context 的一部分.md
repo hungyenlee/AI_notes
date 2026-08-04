@@ -1,4 +1,4 @@
-標籤：#AI #RAG #context #永久筆記
+#AI #RAG #context #知識卡
 
 ## 一句話
 

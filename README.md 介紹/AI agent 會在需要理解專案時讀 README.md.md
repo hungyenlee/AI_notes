@@ -1,4 +1,4 @@
-標籤：#AI #README #AI-agent #永久筆記
+#AI #README #AI-agent #知識卡
 
 ## 一句話
 

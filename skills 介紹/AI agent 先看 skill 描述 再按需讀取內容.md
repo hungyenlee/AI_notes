@@ -1,4 +1,4 @@
-標籤：#AI #Codex #skill #永久筆記
+#AI #Codex #skill #知識卡
 
 ## 一句話
 

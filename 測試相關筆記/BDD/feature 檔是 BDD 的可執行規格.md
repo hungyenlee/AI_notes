@@ -1,4 +1,4 @@
-標籤：#AI #BDD #Gherkin
+#AI #BDD #Gherkin #知識卡
 
 ## 一句話
 

@@ -1,4 +1,18 @@
-標籤：AI #QA #自動化測試 #品質判斷 #AI測試
+#AI #QA #自動化測試 #品質判斷 #原始資料卡
+
+## 來源
+
+- ChatGPT 每日關注：2026-07-13
+
+## 摘要
+
+這份原始資料保存 AI 對 QA 工作影響的整理，核心是 QA 的重心正在從執行測試轉向品質判斷。它把 AI automation、bounded delegation、risk analysis、exploratory testing 與 release strategy 連在一起。
+
+## 可沉澱的知識卡
+
+- [[探索式測試用來發現未知風險]]
+- [[風險分析用來決定測試優先順序]]
+- [[發布策略用來降低上線風險]]
 
 ## 核心觀點
 

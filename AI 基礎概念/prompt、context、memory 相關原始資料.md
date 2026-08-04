@@ -1,10 +1,21 @@
-標籤：#AI #prompt #context #memory #原始資料
+#AI #prompt #context #memory #原始資料卡
 
 ## 來源
 
 - Codex 對話：2026-06-11、2026-06-15
 - `codex://threads/019eb567-7548-7803-9f76-fd0f6a9d3d7a`
 - 完整紀錄：[[解釋 RAG－Codex Session 原始紀錄]]
+
+## 摘要
+
+這份原始資料保存 prompt、context、memory 三個 AI 對話概念的說明。它的重點是區分使用者這次輸入的任務、AI 當下可參考的資料包，以及跨對話保存的長期資訊。
+
+## 可沉澱的知識卡
+
+- [[認識 prompt、context、memory]]
+- [[prompt 是使用者這次給 AI 的任務指令]]
+- [[context 是 AI 當下能參考的資料包]]
+- [[memory 是跨對話保存的長期資訊]]
 
 ## 原始資料
 

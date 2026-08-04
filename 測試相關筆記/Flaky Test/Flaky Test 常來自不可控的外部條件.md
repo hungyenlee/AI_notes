@@ -1,4 +1,4 @@
-標籤：#AI #軟體測試 #FlakyTest
+#AI #軟體測試 #FlakyTest #知識卡
 
 ## 一句話
 

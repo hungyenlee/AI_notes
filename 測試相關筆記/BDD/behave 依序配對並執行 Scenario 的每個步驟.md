@@ -1,4 +1,4 @@
-標籤：#AI #BDD #behave #測試自動化
+#AI #BDD #behave #測試自動化 #知識卡
 
 ## 一句話
 

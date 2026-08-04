@@ -1,4 +1,4 @@
-標籤：#AI #Codex #MCP #永久筆記
+#AI #Codex #MCP #知識卡
 
 ## 一句話
 

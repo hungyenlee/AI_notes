@@ -1,4 +1,4 @@
-標籤：#AI #MCP #skill
+#AI #MCP #skill #知識卡
 
 ## 一句話
 
